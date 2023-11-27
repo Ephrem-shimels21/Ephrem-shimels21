@@ -26,7 +26,9 @@ Here are some ideas to get you started:-->
  * [Gmail](ephrem21shimels@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/ephrem-shimels-298a80256/)
  * [Instagram](https://www.instagram.com/ephremshimels/)
-   
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem-shimels21)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 😄 Pronouns: 
   ⚡ Fun fact: ... -->
 
