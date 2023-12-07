@@ -21,7 +21,9 @@ Here are some ideas to get you started:-->
 <!-- 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about 
 * AI basics
-* Flutter 
+* Machine learning
+* Web development
+* Mobile application development
 ## 📫 How to reach me:      
  * [Gmail](ephrem21shimels@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/ephrem-shimels-298a80256/)
