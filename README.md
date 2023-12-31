@@ -18,6 +18,7 @@ Here are some ideas to get you started:-->
   * open source projects related to AI
   * Nodejs/NestJs
   * Flutter
+  * React
 <!-- 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about 
 * AI basics
