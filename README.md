@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG)" width="100"/>
 </div>
 
 # Hi there :wave:
-https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG
+
 my name is Ephrem shimels... 
 I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
 <!--
