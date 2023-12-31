@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there :wave:
 my name is Ephrem shimels... 
 I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
 <!--
