@@ -1,11 +1,10 @@
 <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50%"/>
 </div>
-<div id="header" align="right">
+<!-- <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="50%"/>
 </div>
-
-
+ -->
 # Hi there :wave:
 
 my name is Ephrem shimels... 
