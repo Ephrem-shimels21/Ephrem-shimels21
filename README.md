@@ -31,7 +31,6 @@ Here are some ideas to get you started:-->
 * Web development
 * Mobile application development
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ephrem-shimels21&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 ## 📫 How to reach me:      
  * [Gmail](ephrem21shimels@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/ephrem-shimels-298a80256/)
@@ -39,6 +38,8 @@ Here are some ideas to get you started:-->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem-shimels21)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ephrem-shimels21&theme=vue-white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
 <!-- - 😄 Pronouns: 
   ⚡ Fun fact: ... -->
 
