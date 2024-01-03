@@ -1,10 +1,7 @@
 <div id="header" align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50%"/>
 </div>
-<!-- <div id="header" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="50%"/>
-</div>
- -->
+
 # Hi there :wave:
 
 my name is Ephrem shimels... 
@@ -33,6 +30,8 @@ Here are some ideas to get you started:-->
 * Machine learning
 * Web development
 * Mobile application development
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ephrem-shimels21&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 ## 📫 How to reach me:      
  * [Gmail](ephrem21shimels@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/ephrem-shimels-298a80256/)
