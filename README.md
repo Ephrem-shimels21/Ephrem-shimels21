@@ -1,9 +1,7 @@
 <div  id="header">
-  
-# <h1 align = "center">  Hi there :wave: </h1>
+# <h1 align = "center">  Hi there :wave:  I'm Ephrem Shimels </h1>
 ## <h3 align="center">A passionate FullStack developer and AI Engineer from Ethiopia</h3>
-<p align = "left">
-my name is Ephrem shimels... 
+<p align = "center">
 I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
 </p>
 
@@ -20,18 +18,14 @@ I am Highly-motivated software engineering student at Addis Ababa University wit
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50%"/>
 </div>
 
-
-
-
 </div>
-<!--
-**Ephrem-shimels21/Ephrem-shimels21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align = "left">
 Here are some ideas to get you started:-->
 ## 🔭 I’m currently working on
  * Face recognition algorithms
  * Image violence detection 
  * Robots on using Ros2 and Gazebo simulator
+</div>
 ## 🌱 I’m currently learning
   * Machine Learing
   * Robotics
