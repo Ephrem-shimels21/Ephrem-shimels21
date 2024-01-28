@@ -50,19 +50,11 @@ Here are some ideas to get you started:-->
 
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem-shimels21)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-shimels21&" alt="ephrem-shimels21" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ephrem-shimels21&show_icons=true&locale=en&layout=compact" alt="ephrem-shimels21" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ephrem-shimels21&show_icons=true&locale=en" alt="ephrem-shimels21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-shimels21&" alt="ephrem-shimels21" /></p>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ephrem-shimels21&theme=vue-white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-shimels21&layout=compact&theme=white&hide_border=true" />
-
-
-<!-- - 😄 Pronouns: 
-  ⚡ Fun fact: ... -->
 
