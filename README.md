@@ -40,9 +40,7 @@ Here are some ideas to get you started:-->
  * [Instagram](https://www.instagram.com/ephremshimels/)
 
 <div class = "row">
-<div class = "span5">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem-shimels21)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <div class = "span5">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ephrem-shimels21&theme=vue-white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 </div>
