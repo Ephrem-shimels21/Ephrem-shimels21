@@ -1,6 +1,8 @@
 <div  id="header">
 
-# Hi there :wave:
+<h1 align = "center"> # Hi there :wave: </h1>
+<h3 align="center">A passionate FullStack developer and AI Engineer from Ethiopia</h3>
+
 my name is Ephrem shimels... 
 I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
 <h3 align="left">Connect with me:</h3>
