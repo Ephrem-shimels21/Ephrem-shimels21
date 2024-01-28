@@ -14,17 +14,19 @@ I am Highly-motivated software engineering student at Addis Ababa University wit
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/ephrem_shimels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ephrem_shimels" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ephishime/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ephishime/" height="30" width="40" /></a>
 </p>
+<div class="row">
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="50%"/>
 </div>
 
 </div>
-<div align = "left">
+<div align="left">
 Here are some ideas to get you started:-->
 ## 🔭 I’m currently working on
  * Face recognition algorithms
  * Image violence detection 
  * Robots on using Ros2 and Gazebo simulator
+</div>
 </div>
 ## 🌱 I’m currently learning
   * Machine Learing
