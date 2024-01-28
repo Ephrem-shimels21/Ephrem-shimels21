@@ -1,10 +1,11 @@
 <div  id="header">
-
 # <h1 align = "center">  Hi there :wave: </h1>
 ## <h3 align="center">A passionate FullStack developer and AI Engineer from Ethiopia</h3>
 
 my name is Ephrem shimels... 
 I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephrem-shimels21&label=Profile%20views&color=0e75b6&style=flat" alt="ephrem-shimels21" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tamire_ephrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamire_ephrem" height="30" width="40" /></a>
