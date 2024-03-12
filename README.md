@@ -18,21 +18,12 @@ I am Highly-motivated software engineering student at Addis Ababa University wit
 </div>
 </div>
 
-## 🔭 I’m currently working on
- * Face recognition algorithms
- * Image violence detection 
- * Robots on using Ros2 and Gazebo simulator
-
-## 🌱 I’m currently learning
-  * Machine Learing
-  * Robotics
-  * Programming for AI
-  * Mathematics for AI
-## 👯 I’m looking to collaborate on
-  * open source projects related to AI
-  * Nodejs/NestJs
-  * Flutter
-  * React
+## 🔭 I’m currently working on: Personal Projects
+ 
+## 🌱 I’m currently learning: Deep Learning, 
+  
+## 👯 I’m looking to collaborate on: Flutter, NestJs, ML, AI
+ 
 <!-- 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about 
 * AI basics
