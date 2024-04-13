@@ -24,7 +24,7 @@ I am Highly-motivated software engineering student at Addis Ababa University wit
       -Deep Learning, 
   
 ## 👯 I’m looking to collaborate on: 
-      -Flutter, NestJs, GoLang, ML, AI
+      -Flutter, NestJs, GoLang(GO) , ML, AI
  
 <!-- 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about 
