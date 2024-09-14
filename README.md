@@ -2,7 +2,7 @@
  <h1 align = "center">  Hi there :wave:  I'm Ephrem Shimels </h1>
  <h3 align="center">A passionate FullStack developer and AI Engineer from Ethiopia</h3>
 <p align = "center">
-I am Highly-motivated software engineering student at Addis Ababa University with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
+I am Highly-motivated software engineer with desire to take on new challenges. Strong worth ethic, adaptability and exceptional communication. Adept at working effectively unsupervised and quickly mastering new skills.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephrem-shimels21&label=Profile%20views&color=0e75b6&style=flat" alt="ephrem-shimels21" /> </p>
 <h3 align="left">Connect with me:</h3>
